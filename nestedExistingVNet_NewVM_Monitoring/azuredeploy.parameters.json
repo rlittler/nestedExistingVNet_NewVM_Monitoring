@@ -25,19 +25,19 @@
         "value": "IaaSResources"
       },
       "vmSubscriptionId": {
-        "value": "c405f45d-d750-45a5-8d4d-5c9006d4b2b5"
+        "value": ""
       },
       "vmNicName": {
         "value": "nic"
       },
       "storageAccountName": {
-        "value": "sfhdof24124931"
+        "value": ""
       },
       "storageAccountResourceGroup": {
         "value": "IaaSResources"
       },
       "storageAccountSubscriptionId": {
-        "value": "c405f45d-d750-45a5-8d4d-5c9006d4b2b5"
+        "value": ""
       },
       "virtualMachineName": {
         "value": "vm001"
@@ -50,7 +50,7 @@
         "value": "IaaSResources"
       },
       "nicSubscriptionId": {
-        "value": "c405f45d-d750-45a5-8d4d-5c9006d4b2b5"
+        "value": ""
       },
 
       "sqlName": {
@@ -61,7 +61,7 @@
         "value": "IaaSResources"
       },
       "sqlSubscriptionId": {
-        "value": "c405f45d-d750-45a5-8d4d-5c9006d4b2b5"
+        "value": ""
       }
     }
   }
